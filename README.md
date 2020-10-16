@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 - :computer: 9+ years in SDLC | 6+ years as Technical Project Manager
-- :telescope: I’m currently working at Crowdtsaffing as an OnSite Data Analyst for Google
+- :telescope: I’m currently working at Crowdstaffing as an OnSite Data Analyst for Google
 - :mortar_board: MBA | M.Sc. Business Analytics | B.E. Software Engineering
 - :round_pushpin: From Perú 🇵🇪, living in California :us:
 - 🤔 I’m looking for help to build a Product Management career and improve in Machine Learning
