@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There, and Welcome
 
 <!--
 **AndRemy/AndRemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 🎓 MBA | M.Sc. Business Analytics | B.E. Software Engineering
 - 📍 From Perú 🇵🇪, living in California
 - 🤔 I’m looking for help to build a Product Management career and improve in Machine Learning
-- ⚡ Fun fact: I love listening to (sometimes playing) music, watching TV series and movies (Star Wars & Marvel are my all-time favorites), and playing videogames   
+- ⚡ Fun fact: I love listening to (sometimes playing) music, watching TV series and movies (Star Wars & Marvel are my all-time favorites), and playing videogames
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndRemy)](https://github.com/anuraghazra/github-readme-stats)
