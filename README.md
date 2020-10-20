@@ -1,12 +1,12 @@
 <h2 align="center">
-    Welcome! This Andre Remy's GitHub
+    Welcome to my GitHub! This is Andre Remy
 </h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/andremy">
+    <a href="https://linkedin.com/in/andremy" target="_blank" rel="noopener noreferrer">
         <img src="./images/linkedin.png" width=25px height=25px>
     </a>
-    <a href="https://twitter.com/AndRemy88">
+    <a href="https://twitter.com/AndRemy88" target="_blank" rel="noopener noreferrer">
         <img src="./images/twitter.png" width=25px height=25px>
     </a>
 </p>
